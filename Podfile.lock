@@ -1,0 +1,34 @@
+PODS:
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - MBProgressHUD (0.9.1)
+  - MJExtension (2.5.2)
+  - MJRefresh (2.3.1)
+  - Reachability (3.2)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - UMengAnalytics-NO-IDFA (3.5.9)
+
+DEPENDENCIES:
+  - FMDB (~> 2.5)
+  - MBProgressHUD (~> 0.9.1)
+  - MJExtension (~> 2.5.2)
+  - MJRefresh (~> 2.3.1)
+  - Reachability (~> 3.2)
+  - SDWebImage (~> 3.7.3)
+  - UMengAnalytics-NO-IDFA
+
+SPEC CHECKSUMS:
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  MJExtension: 73e812aca0846e4a7b4d7aca34cfacf48d1f3310
+  MJRefresh: fa22d5d753aaceb4e76232ce264cb2dca90b323f
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  UMengAnalytics-NO-IDFA: c5302a2246061c356641bb3056e89dfbdeb37424
+
+COCOAPODS: 0.39.0
