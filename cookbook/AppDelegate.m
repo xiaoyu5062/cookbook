@@ -112,6 +112,7 @@
 }
 //UMeng统计
 -(void)initUMeng{
+#warning 请注意替换成自己在友盟上的appKey  当然不替换也不影响功能
     [MobClick startWithAppkey:@"56432ddb67e58ed0f7001a52" reportPolicy:BATCH channelId:nil];
 }
 

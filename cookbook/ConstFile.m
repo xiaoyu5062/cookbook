@@ -7,8 +7,8 @@
 //
 
 #import "ConstFile.h"
-
- NSString * OpenID=@"JHc080ed1d2a0e450c60f2b2587406d87d";
+#warning 请替换成自己在聚合上的OpenID
+ NSString * OpenID=@"......";
  NSString * APPID=@"46";
  NSString * Method_Get=@"GET";
  NSString * Method_Post=@"POST";
